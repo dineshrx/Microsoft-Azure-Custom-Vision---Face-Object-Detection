@@ -1,11 +1,11 @@
-# Microsoft-Azure-Custom-Vision- Face-Object-Detection
+# Friends Series Character Prediction using Microsoft Azure Custom Vision
+
+This project demonstrates how to use Microsoft Azure Custom Vision to predict characters from the popular TV series "Friends" using machine learning.
+
 ## OUTPUT
 ![Screenshot (6)](https://github.com/dineshrx/Microsoft-Azure-Custom-Vision---Face-Object-Detection/assets/144202549/80cfcdbf-6b05-4f97-9aa7-9e93c80ba710)
 
 ![Screenshot (5)](https://github.com/dineshrx/Microsoft-Azure-Custom-Vision---Face-Object-Detection/assets/144202549/f92f6c32-3a9e-4b39-a490-74523eb1dc48)
-# Friends Series Character Prediction using Microsoft Azure Custom Vision
-
-This project demonstrates how to use Microsoft Azure Custom Vision to predict characters from the popular TV series "Friends" using machine learning.
 
 ## Introduction
 
@@ -20,10 +20,5 @@ To get started with using this project, follow these steps:
 - **Microsoft Azure Account**: Sign up for an Azure account if you don't have one.
 - **Custom Vision Service**: Create a Custom Vision project in Azure.
 
-### Installation
 
-1. Clone this repository to your local machine.
-
-   ```bash
-   git clone https://github.com/your-username/friends-series-prediction.git
 
