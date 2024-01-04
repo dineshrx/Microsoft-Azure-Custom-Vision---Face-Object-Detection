@@ -20,7 +20,7 @@ To get started with using this project, follow these steps:
 
 - **Microsoft Azure Account**: Sign up for an Azure account if you don't have one.
 - **Custom Vision Service**: Create a Custom Vision project in Azure.
-- ** Azure Custom Vision Setup: Create a project, add and label 'Friends' characters' images, and train the model.
+- Azure Custom Vision Setup: Create a project, add and label 'Friends' characters' images, and train the model.
       
 
 
