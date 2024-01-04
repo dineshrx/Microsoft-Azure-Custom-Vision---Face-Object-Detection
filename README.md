@@ -1,6 +1,6 @@
 # Friends Series Character Prediction using Microsoft Azure Custom Vision
 
-This project demonstrates how to use Microsoft Azure Custom Vision to predict characters from the popular TV series "Friends" using machine learning.
+This project demonstrates how to use Microsoft Azure Custom Vision to predict characters from the popular TV series "Friends" using machine learning. The datasets were downloaded from kaggle.
 
 ## OUTPUT
 ![Screenshot (6)](https://github.com/dineshrx/Microsoft-Azure-Custom-Vision---Face-Object-Detection/assets/144202549/80cfcdbf-6b05-4f97-9aa7-9e93c80ba710)
@@ -14,7 +14,8 @@ The "Friends" series has a diverse set of characters, each with unique traits an
 ## Getting Started
 
 To get started with using this project, follow these steps:
-
+### Datasets
+      https://www.kaggle.com/datasets/amiralikalbasi/images-of-friends-character-for-face-recognition
 ### Prerequisites
 
 - **Microsoft Azure Account**: Sign up for an Azure account if you don't have one.
